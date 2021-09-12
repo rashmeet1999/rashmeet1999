@@ -7,9 +7,11 @@
 
 - 🌱 I’m currently learning **Data Analytics, Artificial Intelligence and Image Processing**
 
+- 👨‍💻 All of my projects are available at [https://github.com/rashmeet1999/Rashmeet-Kaur](https://github.com/rashmeet1999/Rashmeet-Kaur)
+
 - 📫 How to reach me **rashmeet3112@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fUcNaFQwhS1M5h9pRWT0gfx6rAxLqSji/view?usp=sharing](https://drive.google.com/file/d/1fUcNaFQwhS1M5h9pRWT0gfx6rAxLqSji/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1k2hIEFDlvhLX-DympdA7dA5bWNA3ypVc/view?usp=sharing](https://drive.google.com/file/d/1k2hIEFDlvhLX-DympdA7dA5bWNA3ypVc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
